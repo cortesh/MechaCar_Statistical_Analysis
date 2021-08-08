@@ -25,21 +25,23 @@ A look at the results of the t-Test for the entire sample dataset shows a p-valu
 
 ![normal_distribution_population](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/normal_distribution_population.jpg)
 
+A comparison of density charts for the population and the sample show that both datasets are normally distributed.
 
 ![normal_distribution_sample](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/normal_distribution_sample.jpg)
 
+But the sample dataset is skewed to the left.
+
 ![one_sample_t-Test1](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot1.jpg)
 
-stuff
+When you perform the t-Tests by lot, however, the p-values fall very much within range of the significance level
 
 ![one_sample_t-Test2](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot2.jpg)
 
-stuff
+Allowing one to positively reject the Null hypothesis
 
 ![one_sample_t-Test3](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot3.jpg)
 
 
-stuff
 
 ## Deliverable 4: Study Design: MechaCar vs Competition
 
