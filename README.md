@@ -17,13 +17,13 @@
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
-![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test.jpg)
+![one_sample_t-Test](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test.jpg)
 
-![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test1.jpg)
+![one_sample_t-Test1](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test1.jpg)
 
-![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test2.jpg)
+![one_sample_t-Test2](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test2.jpg)
 
-![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test3.jpg)
+![one_sample_t-Test3](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test3.jpg)
 
 
 ## Deliverable 4: Study Design: MechaCar vs Competition
