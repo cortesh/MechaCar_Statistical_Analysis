@@ -43,6 +43,8 @@ sample_table <- population_table %>% sample_n(50)
 #compare sample versus population means
 t.test(log10(sample_table$PSI),mu=mean(log10(population_table$PSI)))
 
+ggplot(sample_table,aes(x=PSI)) + geom_density() #visualize distribution using density plot
+
 
 t.test(subset(population_table$PSI,sample_table$Manufacturing_Lot == 'Lot1')) # t-test for Lot 1
 t.test(subset(population_table$PSI,sample_table$Manufacturing_Lot == 'Lot2')) # t-test for Lot 2
