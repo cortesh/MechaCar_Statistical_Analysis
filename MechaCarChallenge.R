@@ -37,6 +37,8 @@ lot_summary <- Suspension_Coil  %>% group_by(Manufacturing_Lot) %>% summarize(Me
 #import  dataset
 population_table <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
 
+ggplot(population_table,aes(x=PSI)) + geom_density() #visualize distribution using density plot
+
 #randomly sample 50 data points
 sample_table <- population_table %>% sample_n(50) 
 
