@@ -19,12 +19,20 @@
 
 ![one_sample_t-Test](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test.jpg)
 
+stuff
+
 ![one_sample_t-Test1](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot1.jpg)
+
+stuff
 
 ![one_sample_t-Test2](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot2.jpg)
 
+stuff
+
 ![one_sample_t-Test3](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot3.jpg)
 
+
+stuff
 
 ## Deliverable 4: Study Design: MechaCar vs Competition
 
