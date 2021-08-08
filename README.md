@@ -20,7 +20,12 @@ The conclusion of this study is that the design specifications for the MechaCar 
 
 ![one_sample_t-Test](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test.jpg)
 
-stuff
+A look at the results of the t-Test for the entire sample dataset shows a p-value of .374 and therefore since the significance test is not met, the Null hypothesis cannot be ruled out.
+
+![normal_distribution_population](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/normal_distribution_population.jpg)
+
+
+
 
 ![one_sample_t-Test1](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot1.jpg)
 
