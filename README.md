@@ -19,9 +19,14 @@
 
 ![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test.jpg)
 
+![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test1.jpg)
+
+![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test2.jpg)
+
+![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test3.jpg)
 
 
-## Study Design: MechaCar vs Competition
+## Deliverable 4: Study Design: MechaCar vs Competition
 
 * What metric or metrics are you going to test?
 The first step in this process would be to determine which metrics we'd be interested in comparing. I would look at the following datapoints:
