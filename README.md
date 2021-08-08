@@ -12,6 +12,7 @@
 
 ![total_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/total_summary.jpg)
 
+
 ![lot_summary](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/lot_summary.jpg)
 
 The conclusion of this study is that the design specifications for the MechaCar suspension coils has successfully stayed within the 100 pounds per square inch parameter. This is true for all lots as a whole and for lots 1 and 2.  Lot 3, however, has a variance of 170 and will need further study to determine the root cause(s) of these production delays.  At least, thanks to this study, the investigation can narrow its scope moving forward. 
@@ -25,7 +26,7 @@ A look at the results of the t-Test for the entire sample dataset shows a p-valu
 ![normal_distribution_population](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/normal_distribution_population.jpg)
 
 
-
+![normal_distribution_sample](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/normal_distribution_sample.jpg)
 
 ![one_sample_t-Test1](https://github.com/cortesh/MechaCar_Statistical_Analysis/blob/main/one_sample_t-Test_lot1.jpg)
 
